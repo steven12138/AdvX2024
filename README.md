@@ -11,9 +11,7 @@ ELF AI（精灵艾尔）是一个由混合现实与大语言模型技术驱动�
 
 ### 1. 视觉呈现
 
-- 具有美丽、可爱、不性感的外观
-- 固定在用户视野的前方左侧，不遮挡正面视野
-- 人物跟随镜头，有自己的小环境背景
+- 具有美丽、可爱的外观
 - 支持触碰交互，不同部位有不同反应
 
 ### 2. 语音交互
@@ -69,3 +67,96 @@ ELF AI 有望在个人助理、情感陪伴、教育辅导等领域发挥重要�
 ## 开发状态
 
 项目目前处于概念和early开发阶段，具体实现细节和发布时间表尚未公布。
+
+## 演示视频（早期开发版本）
+
+https://www.bilibili.com/video/BV1uz421B7Ao/
+
+<br>
+<br>
+
+# ELF AI - Elf Aiel
+
+ELF AI (Elf Aiel) is an AI life project driven by mixed reality and large language model technologies, featuring an image network memory. The project aims to create an AI entity with memory and personality capable of natural interactions with users.
+
+## Project Overview
+
+- Project Name: ELF AI — Elf Aiel
+
+- One-line Introduction: An AI life form driven by mixed reality and large language model technologies, with image network memory
+
+## Key Features
+
+### 1. Visual Presentation
+
+- Beautiful, cute appearance
+
+- Supports touch interaction, with different reactions for different body parts
+
+### 2. Voice Interaction
+
+- Able to hear external sounds and make near real-time judgments and reactions
+
+- Natural control of tone, intonation, and speech rate
+
+- Pleasant voice timbre
+
+- Improved interruption mechanism, ensuring consistency in speech
+
+### 3. Safety Mechanisms
+
+- Filters voice inputs to prevent SC injection attacks
+
+- Output content filtering, blocking politically sensitive content and profanity
+
+### 4. Memory System
+
+- Long-term and short-term memory capabilities
+
+- Able to remember and analyze current and past interactions
+
+### 5. Self-Awareness
+
+- Has its own consciousness and personality
+
+- Recognizes itself as AI and understands its capability boundaries
+
+### 6. Visual Perception
+
+- Actively observes and analyzes the environment
+
+- Uses GPT-4 to process visual information, generating detailed text descriptions
+
+### 7. Context Awareness
+
+- Perceives the user's environmental context
+
+- Adjusts its behavior and reactions based on different situations
+
+### 8. Emotional Expression
+
+- Has its own emotion system
+
+- Expresses emotional states through facial expressions and actions
+
+### 9. Network Adaptability
+
+- Enters drowsy mode with reduced reaction speed during high network latency
+
+- Enters sleep mode during offline or network interruptions, providing text notifications
+
+## Technical Implementation
+
+The project utilizes mixed reality technology and large language models, combined with an image network memory system, to create a highly interactive and intelligent AI entity. Specific technical details have not been disclosed.
+
+## Application Prospects
+
+ELF AI is expected to play important roles in personal assistance, emotional companionship, educational tutoring, and other fields, bringing a new experience to human-machine interaction.
+
+## Development Status
+
+The project is currently in the concept and early development stage. Specific implementation details and release timeline have not been announced.
+
+## Demo Video (Early Development Version)
+
+https://www.bilibili.com/video/BV1uz421B7Ao/
