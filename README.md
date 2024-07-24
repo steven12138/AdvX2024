@@ -7,7 +7,8 @@ ELF AI（精灵艾尔）是一个由混合现实与大语言模型技术驱动�
 - **项目名称**：ELF AI —— 精灵艾尔
 - **一句话介绍**：由混合现实与大语言模型技术驱动的有图像网络记忆的 AI 生命，呈现于虚拟现实中的3D形体
 
-![52955116d0d7c3224830a797b7ea532](https://github.com/user-attachments/assets/4416e12a-e6b4-40e2-9b0f-807925616e62)
+![image](https://github.com/user-attachments/assets/0ac9e428-6a42-4640-a58e-9ff95716385d)
+
 
 ## 主要特性
 
@@ -86,7 +87,7 @@ ELF AI (Elf Eyre) is an AI life project driven by mixed reality and large langua
 - **Project Name**: ELF AI — Elf Eyre
 - **One-line Introduction**: An AI life form driven by mixed reality and large language model technologies, with image network memory, presented as a 3D entity in virtual reality
 
-![52955116d0d7c3224830a797b7ea532](https://github.com/user-attachments/assets/225c2e85-5d7e-47b7-b1f4-be46f3d63cba)
+![image](https://github.com/user-attachments/assets/469b04fc-65fb-4035-bd6e-0b9b52774001)
 
 ## Key Features
 
